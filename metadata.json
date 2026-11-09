@@ -1,0 +1,6 @@
+{
+  "name": "WaveTube - YouTube Playlist to WAV Downloader",
+  "description": "Convert and download entire YouTube playlists or single tracks as pristine uncompressed .WAV audio files individually or in a ZIP archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
